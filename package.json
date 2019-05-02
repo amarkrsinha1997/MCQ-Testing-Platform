@@ -1,0 +1,23 @@
+{
+  "name": "chanakya",
+  "version": "1.0.0",
+  "description": "Chanakya is the platform we use to let the new students answer the NavGurukul assessment before they get into NavGurukul. The admission flow after answering the test will eventually also be handled inside Chanakya.",
+  "main": "index.js",
+  "dependencies": {
+    "phantomjs": "^2.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navgurukul/chanakya.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navgurukul/chanakya/issues"
+  },
+  "homepage": "https://github.com/navgurukul/chanakya#readme"
+}
